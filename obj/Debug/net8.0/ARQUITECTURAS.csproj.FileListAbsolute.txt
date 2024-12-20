@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ARQUITECTURAS\obj\Debug\net8.0\ARQUITECTURAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ARQUITECTURAS\obj\Debug\net8.0\ARQUITECTURAS.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ARQUITECTURAS\obj\Debug\net8.0\ARQUITECTURAS.AssemblyInfo.cs
+C:\Users\user\source\repos\ARQUITECTURAS\obj\Debug\net8.0\ARQUITECTURAS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ARQUITECTURAS\obj\Debug\net8.0\ARQUITECTURAS.sourcelink.json
+C:\Users\user\source\repos\ARQUITECTURAS\bin\Debug\net8.0\ARQUITECTURAS.exe
+C:\Users\user\source\repos\ARQUITECTURAS\bin\Debug\net8.0\ARQUITECTURAS.deps.json
+C:\Users\user\source\repos\ARQUITECTURAS\bin\Debug\net8.0\ARQUITECTURAS.runtimeconfig.json
+C:\Users\user\source\repos\ARQUITECTURAS\bin\Debug\net8.0\ARQUITECTURAS.dll
+C:\Users\user\source\repos\ARQUITECTURAS\bin\Debug\net8.0\ARQUITECTURAS.pdb
+C:\Users\user\source\repos\ARQUITECTURAS\obj\Debug\net8.0\ARQUITECTURAS.dll
+C:\Users\user\source\repos\ARQUITECTURAS\obj\Debug\net8.0\refint\ARQUITECTURAS.dll
+C:\Users\user\source\repos\ARQUITECTURAS\obj\Debug\net8.0\ARQUITECTURAS.pdb
+C:\Users\user\source\repos\ARQUITECTURAS\obj\Debug\net8.0\ARQUITECTURAS.genruntimeconfig.cache
+C:\Users\user\source\repos\ARQUITECTURAS\obj\Debug\net8.0\ref\ARQUITECTURAS.dll
